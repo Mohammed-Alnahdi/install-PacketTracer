@@ -37,4 +37,4 @@ sudo bash uninstall.sh
 Version of this repo is Cisco Packet Tracer 8.0.1
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
