@@ -33,6 +33,13 @@ If you want uninstall run the command
 sudo bash uninstall.sh
 ```
 
+**Note**
+if you use WM such as [DWM from Suckless](https://dwm.suckless.org) you must make link the executed binary to Dmenu by 
+
+``` bash
+sudo ln -s /opt/pt/packettracer /bin/packettracer
+```
+
 ## Version of This Repo 
 Version of this repo is Cisco Packet Tracer 8.0.1
 
