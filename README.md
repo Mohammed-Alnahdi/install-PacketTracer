@@ -13,6 +13,8 @@ Many of the destros does not have `dpkg` and must use this script to install Pac
 ## Installation 
 Before active the Bash in this scripting. you need download the package from [NETCAD](https://www.netacad.com/courses/packet-tracer) to get the last version. 
 
+**Note** You must download version 8.0.1 for this script.
+
 1) the first step is download the repository by git:
 
 ```bash
