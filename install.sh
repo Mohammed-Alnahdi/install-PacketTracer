@@ -14,7 +14,7 @@ else
 	mkdir /tmp/Installation-PacketTracer/
 fi
 cp CiscoPacketTracer_801_Ubuntu_64bit.deb /tmp/Installation-PacketTracer/
-cd /tmp/PacketTracer/
+cd /tmp/Installation-PacketTracer/
 ar -xv CiscoPacketTracer_801_Ubuntu_64bit.deb
 mkdir control
 tar -C control -Jxf control.tar.xz
